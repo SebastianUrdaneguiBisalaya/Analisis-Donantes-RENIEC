@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+plotly.express
+geopandas
+mapclassify>= 2.4.0
