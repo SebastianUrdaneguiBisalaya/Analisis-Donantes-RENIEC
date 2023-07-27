@@ -18,4 +18,4 @@ y marcaron ser donantes de órganos con respecto al total de personas adultas ma
 </p>
 </div>
 
-#### En el archivo ***analisis.ipynb*** podrás encontrar todo el análisis realizado. ¡Te invito a leer! <div href="https://github.com/SebastianUrdaneguiBisalaya/Analisis-Donantes-RENIEC/blob/main/analisis.ipynb">Clic aquí</div> 
+#### En el archivo ***analisis.ipynb*** podrás encontrar todo el análisis realizado. ¡Te invito a leer! [Clic aquí!!](https://github.com/SebastianUrdaneguiBisalaya/Analisis-Donantes-RENIEC/blob/main/analisis.ipynb)
